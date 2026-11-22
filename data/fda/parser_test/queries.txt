@@ -1,0 +1,1 @@
+!has_status(record_000001, Terminated)

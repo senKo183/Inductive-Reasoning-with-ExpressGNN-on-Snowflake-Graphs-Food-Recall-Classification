@@ -1,0 +1,12 @@
+reason_category,Class_I,Class_II,Class_III,support
+Biological_Hazard,7124,1894,40,9058
+Chemical_Hazard,0,247,135,382
+Foreign_Material,5,1827,47,1879
+Illness_or_Complaint,15,97,6,118
+Labeling_Violation,171,548,302,1021
+Manufacturing_Violation,0,609,26,635
+Other,347,1522,322,2191
+Processing_Violation,9,652,18,679
+Quality_Issue,0,128,12,140
+Sanitation_Violation,1,152,22,175
+Undeclared_Allergen,1991,3775,418,6184
