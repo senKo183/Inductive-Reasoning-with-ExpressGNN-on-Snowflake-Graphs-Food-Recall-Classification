@@ -1,4 +1,4 @@
-﻿firm_id,recalling_firm_original
+firm_id,recalling_firm_original
 firm_00001,"1 Epic, LLC"
 firm_00002,1908 Brands
 firm_00003,"2 Moms in the Raw, LLC"
@@ -113,7 +113,7 @@ firm_00111,Adams Extract & Spice LLC
 firm_00112,Adm Milling
 firm_00113,Admiralty Island Fisheries Inc dba AquaStar (USA) Corp.
 firm_00114,Advance Food International Inc.
-firm_00115,Advance Pierre N
+firm_00115,Advance Pierre                                    N
 firm_00116,"Advanced Compounds International, Inc."
 firm_00117,Advanced Food Concepts
 firm_00118,Advanced Fresh Concepts Corp
@@ -302,7 +302,7 @@ firm_00300,"Atkins Nutritionals, Inc."
 firm_00301,Atkinson Milling Company
 firm_00302,Atlanta Cheesecake Company LLC
 firm_00303,Atlantic Fisheries
-firm_00304,"Atlantic Pro Nutrients, Inc. dba XYMOGEN"
+firm_00304,"Atlantic Pro Nutrients, Inc. dba  XYMOGEN"
 firm_00305,"Atlantic Spice Co., Inc."
 firm_00306,Atlapac Trading Company Inc
 firm_00307,"Atlas Operations, Inc."
@@ -409,7 +409,7 @@ firm_00407,"Bakkavor USA, Inc"
 firm_00408,Balajee Trade Link LLC
 firm_00409,Ballas Egg Prod Corp
 firm_00410,"Ballester Hermanos, Inc."
-firm_00411,"Ballreich Snack Food Company, LLC"
+firm_00411,"Ballreich  Snack Food Company, LLC"
 firm_00412,Banks Square Market Corp dba The Produce Connection
 firm_00413,Banner Mountain Sprouts Inc
 firm_00414,Banner Smoked Fish Inc.
@@ -504,7 +504,7 @@ firm_00502,Better Made Snack Foods Inc.
 firm_00503,Betty Buzz LLC
 firm_00504,Betty Lou's Inc
 firm_00505,"Betty Lou's, Inc."
-firm_00506,"Beverage Distribution Center Incorporated, LLC. (BDCI)"
+firm_00506,"Beverage Distribution Center Incorporated, LLC.  (BDCI)"
 firm_00507,Beverage International
 firm_00508,"Bevovations, LLC"
 firm_00509,"Bevovations, LLC dba New England Apple Products Company"
@@ -603,7 +603,7 @@ firm_00601,"Boston Salads & Provisions Co., Inc."
 firm_00602,Botanas Michoacanas
 firm_00603,Botanical Laboratories Inc
 firm_00604,"Botticelli Foods, LLC"
-firm_00605,Bottling LLC dba Pepsi Beverages Company
+firm_00605,Bottling LLC  dba Pepsi Beverages Company
 firm_00606,"Boulder Brands, LLC"
 firm_00607,Boulder Ice Cream
 firm_00608,Bounce Life Style HQ
@@ -813,7 +813,7 @@ firm_00811,"Cargill Cocoa & Chocolate, Inc."
 firm_00812,Cargill Cocoa and Chocolate Inc
 firm_00813,"Cargill Cocoa and Chocolate, Inc."
 firm_00814,Cargill Salt
-firm_00815,"Cargill, Inc Corporate Headquarters"
+firm_00815,"Cargill, Inc         Corporate Headquarters"
 firm_00816,Caribbean Belize LLC
 firm_00817,Caribe Produce
 firm_00818,Caribou Coffee Company Inc.
@@ -847,7 +847,7 @@ firm_00845,"Cedar's Mediterranean Foods, Inc."
 firm_00846,Cedarlane Natural Foods Inc/Frankly Fresh Foods Inc.
 firm_00847,Cedars Bakery
 firm_00848,Cell-nique Corp
-firm_00849,Cell-nique Corp dba Living Harvest at Hudson River Foods
+firm_00849,Cell-nique Corp dba Living Harvest  at Hudson River Foods
 firm_00850,CenSea Inc
 firm_00851,Cena Vegan
 firm_00852,Censea Inc
@@ -972,7 +972,7 @@ firm_00970,Coca Cola
 firm_00971,"Coca Cola Bottling Company United, LLC"
 firm_00972,"Coca Cola Bottling Company United-East, LLC"
 firm_00973,Coca Cola Bottling Group United
-firm_00974,Coca-Cola Company (The)
+firm_00974,Coca-Cola Company  (The)
 firm_00975,Coca-Cola Consolidated
 firm_00976,"Coca-Cola Refreshments USA, Inc."
 firm_00977,"Coca-Cola Refreshments, USA Inc."
@@ -1308,7 +1308,7 @@ firm_01306,Dr. Praeger's Sensible Foods Inc.
 firm_01307,"Drake's Fresh Pasta Company, Inc."
 firm_01308,Dreamland Inc
 firm_01309,Drews LLC
-firm_01310,Dreyer's Grand Ice Cream Inc.
+firm_01310,Dreyer's Grand  Ice Cream Inc.
 firm_01311,"Dreyer's Grand Ice Cream, Inc."
 firm_01312,"Dreyers Grand Ice Cream, Inc."
 firm_01313,Driscoll Watsonville
@@ -1474,7 +1474,7 @@ firm_01472,"Ethos Bakery, LLC"
 firm_01473,"Eunha Fisheries Co., LTD"
 firm_01474,Euphoria Fancy Food Inc
 firm_01475,"Euphoria Fancy Food, Inc."
-firm_01476,"Euphoria Trading Company, LLC."
+firm_01476,"Euphoria Trading  Company, LLC."
 firm_01477,Euro-Pharma
 firm_01478,Euroline Foods LLC
 firm_01479,Europastry USA INC
@@ -1541,7 +1541,7 @@ firm_01539,Fairhope Roasting Company
 firm_01540,Fairlife Llc
 firm_01541,Fairmont Foods Inc.
 firm_01542,Fairview Mills Inc
-firm_01543,Fairway Group Holding Corp dba Fairway Bakery LLC
+firm_01543,Fairway  Group Holding Corp dba  Fairway Bakery LLC
 firm_01544,Fairway Group Holdings Corp
 firm_01545,Fairway Operating Corp.
 firm_01546,"Fairytale Brownies, Inc"
@@ -1592,9 +1592,9 @@ firm_01590,Fine Land Corp
 firm_01591,Finger Lakes Farmstead Cheese Company Llc
 firm_01592,Fire Distributors Plus LLC
 firm_01593,Firehook of Virginia
-firm_01594,First & Last Tavern
-firm_01595,First & Ten LLC
-firm_01596,First Quality Produce
+firm_01594,First  Quality Produce
+firm_01595,First & Last Tavern
+firm_01596,First & Ten LLC
 firm_01597,First Rate Plantation
 firm_01598,First Source
 firm_01599,First Source Llc
@@ -1606,7 +1606,7 @@ firm_01604,"Fischer & Wieser Specialty Foods, Inc."
 firm_01605,Fish Family Farm
 firm_01606,"Fish House Dressing, Inc."
 firm_01607,Fisher's Homestyle Salads
-firm_01608,"Fisherman's Pride Processor, Inc. dba Neptune Foods"
+firm_01608,"Fisherman's  Pride Processor, Inc. dba Neptune Foods"
 firm_01609,Fishtrap Dairy LLC
 firm_01610,Fit and Focused Supplements
 firm_01611,Five Star Gourmet Foods of Florida
@@ -1668,7 +1668,7 @@ firm_01666,Four Brothers Packaging Inc.
 firm_01667,Four Link Nutriworld
 firm_01668,"Four Seasons Produce Warehouse #2/Sunrise Logistics, Inc"
 firm_01669,"Fourth Street Barbeque, Inc."
-firm_01670,Fox Confections LLC
+firm_01670,Fox  Confections LLC
 firm_01671,Fran's Chocolates Ltd
 firm_01672,Frank L Harter & Sons Inc
 firm_01673,Franklin Farms East
@@ -1842,7 +1842,7 @@ firm_01840,Garre Farms
 firm_01841,Garry N Sun USA Inc.
 firm_01842,Gasco Industrial
 firm_01843,"Gasco Industrial, Corp."
-firm_01844,Gaws Gourmet Foods
+firm_01844,Gaws Gourmet  Foods
 firm_01845,"Gedney Foods Product, LLC"
 firm_01846,Geissler's Supermarket
 firm_01847,"Gel Spice Co, Inc."
@@ -1955,7 +1955,7 @@ firm_01953,"Gooder Foods, Inc."
 firm_01954,Goodman Food Products LLC
 firm_01955,Goodman Food Products Texas Inc
 firm_01956,Gorant Candies Inc A Division of Carlton Cards Retail Inc
-firm_01957,Gordon Desserts DBA Mochidoki
+firm_01957,Gordon Desserts  DBA Mochidoki
 firm_01958,Gordon Food Service
 firm_01959,"Gordon Food Service, Inc."
 firm_01960,Gorilla Mind LLC
@@ -2044,7 +2044,7 @@ firm_02042,"Grippo Potato Chip Co., Inc."
 firm_02043,"Grocery Delivery E-Services USA, Inc."
 firm_02044,Gromex Inc.
 firm_02045,Groundwork Coffee LLC
-firm_02046,Growers Express S
+firm_02046,Growers Express                                    S
 firm_02047,Growland Inc
 firm_02048,Gruma Corp
 firm_02049,"Guangdong Zonegoing Food Co., LTD"
@@ -2449,7 +2449,7 @@ firm_02447,J&J Snack Foods Handheld Corp
 firm_02448,J&S Group
 firm_02449,J. R. Simplot Co. Corporate HQ
 firm_02450,J.M.Rosen Cheesecake
-firm_02451,J2C Hawaii LLC
+firm_02451,J2C Hawaii  LLC
 firm_02452,JABSONS FOODS PRIVATE LIMITED (Formerly Known as Jabsons Cottonseed Ind.Pvt.Ltd.)
 firm_02453,JACKIE'S COOKIE CONNECTION LLC
 firm_02454,"JAG SPECIALTY FOODS, LLC"
@@ -2491,7 +2491,7 @@ firm_02489,Jaffe Brothers
 firm_02490,Jagpreet Enterprises Inc.
 firm_02491,"Jagpreet Enterprises, LLC. dba Sukhi's Gourmet Indian Foods"
 firm_02492,"Jaime's Foods ATX, LLC"
-firm_02493,Jalux America Inc
+firm_02493,Jalux America  Inc
 firm_02494,Jamba Juice
 firm_02495,"James G. Cole, Inc., dba ASN/Maxam Neutraceutics"
 firm_02496,James Skinner Baking Co.
@@ -2520,8 +2520,8 @@ firm_02518,"Jesse's Bakery, Inc."
 firm_02519,"Jessie Lord Bakery, LLC"
 firm_02520,"Jiffy Food Service, LLC"
 firm_02521,Jimbo's Kitchen
-firm_02522,Jimmy's Cookies
-firm_02523,"Jimmy's Cookies, LLC"
+firm_02522,"Jimmy's  Cookies, LLC"
+firm_02523,Jimmy's Cookies
 firm_02524,Jindilli Beverages LLC
 firm_02525,Jivan Shakti Inc.
 firm_02526,Jo'S Candies
@@ -2743,7 +2743,7 @@ firm_02741,LBB IMPORTS
 firm_02742,LD Amory & Company
 firm_02743,LE CAFE DE LA PLAGE
 firm_02744,"LEAN CULINARY SERVICES, LLC"
-firm_02745,"LEASA Industries Co., Inc."
+firm_02745,"LEASA  Industries Co., Inc."
 firm_02746,LEE'S PROVISIONS INC
 firm_02747,LEWIS BAKERIES
 firm_02748,LGNDS LLC
@@ -2777,10 +2777,10 @@ firm_02775,"La Flor Products Co., Inc."
 firm_02776,La Fontanella Food Products LLC
 firm_02777,La Granja Inc
 firm_02778,La Guadalupana Wholesale Co Inc
-firm_02779,La Mexicana LLC
-firm_02780,"La Mexicana Tortilla Factory, Inc."
+firm_02779,"La Mexicana  Tortilla Factory, Inc."
+firm_02780,La Mexicana LLC
 firm_02781,La Michoacana 100% Natural Inc
-firm_02782,"La Nica Products, Inc."
+firm_02782,"La Nica Products,  Inc."
 firm_02783,"La Original Tortilla Co., Inc."
 firm_02784,La Orocovena Biscuit
 firm_02785,"La Orocovena Biscuit de PR, Inc."
@@ -2870,11 +2870,11 @@ firm_02868,Liaoning Cheng Da (USA) Inc
 firm_02869,Libby's Gourmet Desserts
 firm_02870,Liberty Fruit Co Inc - Carols Cuts Div
 firm_02871,Liberty Fruit Co Inc DBA Carol's Cuts
-firm_02872,"Liberty Gold Fruit Company, Inc."
+firm_02872,"Liberty Gold Fruit Company,  Inc."
 firm_02873,"Lidl US Operations, LLC"
 firm_02874,Lidl US TRADING
 firm_02875,Life Raft Treats Ice Cream Factory
-firm_02876,Life Rising Corp S
+firm_02876,Life Rising Corp                                    S
 firm_02877,Life Rising Corporation
 firm_02878,Lifevantage Corp
 firm_02879,"Lift Chocolate, LLC"
@@ -3029,9 +3029,9 @@ firm_03027,Mann Packing Co Inc
 firm_03028,"Mann Packing Company, Inc."
 firm_03029,Manna Organics Inc
 firm_03030,Manufacturing Solutions International
-firm_03031,"Manzana Products Co., Inc."
+firm_03031,"Manzana Products Co.,  Inc."
 firm_03032,"Maple Hill Creamery, LLC"
-firm_03033,Maple Island Inc .
+firm_03033,Maple Island Inc            .
 firm_03034,Maple View Ice Cream
 firm_03035,"Maplehurst Bakeries, Inc."
 firm_03036,"Maplehurst Bakeries, LLC."
@@ -3094,12 +3094,12 @@ firm_03092,McCain Foods USA
 firm_03093,McCain Foods USA Inc
 firm_03094,"McClures, Inc."
 firm_03095,"McConnell's Ice Cream, Inc."
-firm_03096,McCormick & Co Inc. Spice Mill Plant
-firm_03097,McCormick & Company - Corporate Headquarters
+firm_03096,McCormick &  Company - Corporate Headquarters
+firm_03097,McCormick & Co Inc. Spice Mill Plant
 firm_03098,McCormick & Company - MSS - HQ
-firm_03099,"McCormick & Company, Inc."
-firm_03100,"McCormick & Company, Inc. - Flavor Manufacturing Center"
-firm_03101,"McCormick & Company, Inc.- Consumer Product Division"
+firm_03099,"McCormick & Company,  Inc."
+firm_03100,"McCormick & Company,  Inc.- Consumer Product Division"
+firm_03101,"McCormick & Company, Inc. - Flavor Manufacturing Center"
 firm_03102,"McEvoy of Marin, LLC."
 firm_03103,McShare's Inc
 firm_03104,Mccall Farms Inc
@@ -3435,7 +3435,7 @@ firm_03433,New Seasons Market
 firm_03434,New Seasons Market LLC
 firm_03435,New Spirit Naturals Inc.
 firm_03436,New Sun Inc
-firm_03437,New World Company
+firm_03437,New World  Company
 firm_03438,"New York Mutual Trading, Inc."
 firm_03439,"NewStar Fresh Foods, LLC"
 firm_03440,"Newark Nut Stores, Inc."
@@ -3665,7 +3665,7 @@ firm_03663,"POPSALOT, LLC"
 firm_03664,POTANDON PRODUCE LLC
 firm_03665,PRAIRIE FARMS
 firm_03666,PRIMARY COLORS DESIGN CORP
-firm_03667,"PRIMO NO. 1 IN PRODUCE, INC"
+firm_03667,"PRIMO  NO. 1 IN PRODUCE, INC"
 firm_03668,PROLAINAT
 firm_03669,"PS Seasoning & Spices, Inc."
 firm_03670,PT Organics Limited
@@ -3693,7 +3693,7 @@ firm_03691,Pack'n Fresh LLC
 firm_03692,Pages Produce Company Inc.
 firm_03693,Paige Common
 firm_03694,"Pain Train Salsa, LLC"
-firm_03695,"Pal-Do Company, Inc d.b.a. Pal-Do World"
+firm_03695,"Pal-Do Company, Inc d.b.a. Pal-Do  World"
 firm_03696,Paleonola Llc
 firm_03697,"Palermo Villa, Inc"
 firm_03698,"Paletas Ice Cream, LLC"
@@ -3753,7 +3753,7 @@ firm_03751,"Pendleton Flour Mills, Llc"
 firm_03752,"Penguin Natural Foods, INC"
 firm_03753,"Penn Herb Company, Ltd."
 firm_03754,Pennant Ingredients
-firm_03755,Pennsylvania State University Berkey Creamery
+firm_03755,Pennsylvania State University  Berkey Creamery
 firm_03756,Penobscot McCrum LLC
 firm_03757,"Penta Intenational, Inc."
 firm_03758,Penzeys LTD
@@ -4133,7 +4133,7 @@ firm_04131,Rising Sun Farms Inc
 firm_04132,"Rita's Fine Food, Inc. Dba Da Vinci's"
 firm_04133,Rite Aid HDQTRS. Corp.
 firm_04134,River Canyon Retreat
-firm_04135,River Ranch Fresh Foods LLC
+firm_04135,River Ranch Fresh Foods  LLC
 firm_04136,River Valley Ranch Ltd
 firm_04137,River Valley Sprouts
 firm_04138,Riverence Provisions LLC
@@ -4253,7 +4253,7 @@ firm_04251,SNO PAC FOODS INC
 firm_04252,SONORA MILLS FOODS INC DBA POPCH
 firm_04253,SOUTHEASTERN GROCERS - MARKETI
 firm_04254,"SOVOS BRANDS INTERMEDIATE, INC."
-firm_04255,"SR Rosati, Inc"
+firm_04255,"SR Rosati,  Inc"
 firm_04256,SRI SRI TATTVA
 firm_04257,SSI-GoPicnic LLC
 firm_04258,"SSP America PHX, LLC"
@@ -4274,7 +4274,7 @@ firm_04272,SUNGAL INC
 firm_04273,SUNOPTA GRAINS AND FOODS
 firm_04274,"SUPERFOODS, INC."
 firm_04275,SUSHI HOUSE INC.
-firm_04276,SW Wisconsin Dairy Goat Products Coop
+firm_04276,SW  Wisconsin Dairy Goat Products Coop
 firm_04277,SWAP FOODS LLC
 firm_04278,SWEET LOREN'S
 firm_04279,Sabor Mexicano
@@ -4344,7 +4344,7 @@ firm_04342,Sauer Brands Inc - New Century
 firm_04343,Sauer Brands Inc - SLO
 firm_04344,"Sauer Brands, Inc."
 firm_04345,"Sauer Brands, Inc. - New Century"
-firm_04346,Sauer Company The C F
+firm_04346,Sauer Company  The C F
 firm_04347,Savage Sports LLC
 firm_04348,Savannah Bee Company Inc.
 firm_04349,"Savannah Food Company, Inc."
@@ -4427,7 +4427,7 @@ firm_04425,"Shaman Botanicals, LLC"
 firm_04426,ShanTea LLC
 firm_04427,"Shandong Ling Xian Food Co.,LTD"
 firm_04428,"Shang Hao Jia, Inc"
-firm_04429,Shasta Produce
+firm_04429,Shasta  Produce
 firm_04430,Shata Traders Inc.
 firm_04431,Shatto Milk Co
 firm_04432,"Shaw's Southern Belle Frozen Foods, Inc."
@@ -4631,7 +4631,7 @@ firm_04629,"Suadel Food Products, Inc."
 firm_04630,Subco Foods Inc.
 firm_04631,"Subco Foods of Wisconsin, Inc."
 firm_04632,Sublime Desserts Inc.
-firm_04633,Sugar Daddy LTD
+firm_04633,Sugar Daddy  LTD
 firm_04634,Sugar Flowers Plus
 firm_04635,Sugar Foods Corporation
 firm_04636,Sugar Foods Corporation Inc
@@ -4681,10 +4681,10 @@ firm_04679,Super World Trading Inc.
 firm_04680,Superior Dairy Inc
 firm_04681,Superior Foods
 firm_04682,Superior Foods Company
-firm_04683,"Superior Fresh, LLC"
+firm_04683,"Superior Fresh,  LLC"
 firm_04684,Superior Nut & Candy Dist. Co.
 firm_04685,Superior Nut Co. Inc.
-firm_04686,Supermercado Econo Inc. E
+firm_04686,Supermercado Econo Inc.                                    E
 firm_04687,Supervalu
 firm_04688,"Supervalu, Inc."
 firm_04689,Supherb Farms
@@ -5053,7 +5053,7 @@ firm_05051,Trident Seafoods Corp - Island Enterprise M/V
 firm_05052,Trident Seafoods Corporation
 firm_05053,Trinidad Benham Corp
 firm_05054,Triple B Corporation
-firm_05055,Triple B Corporation - Charlie's Produce
+firm_05055,Triple B Corporation -  Charlie's Produce
 firm_05056,Tristar Food Wholesale Co Inc
 firm_05057,Triton Seafood Co.
 firm_05058,Troemner Farm
@@ -5280,7 +5280,7 @@ firm_05278,WOLFGANG CONFECTIONERS
 firm_05279,WORLDWIDE SEAFOOD PRODUCTS LLC
 firm_05280,WR Coffee Inc
 firm_05281,WS Global Inc
-firm_05282,"WTI, Inc -World Technology Ingredients"
+firm_05282,"WTI, Inc  -World Technology Ingredients"
 firm_05283,WWF Operating Company
 firm_05284,Waco Bottling LLC
 firm_05285,Waiakea Bottling Inc

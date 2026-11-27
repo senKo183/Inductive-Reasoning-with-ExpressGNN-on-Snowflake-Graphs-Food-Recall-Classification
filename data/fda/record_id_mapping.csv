@@ -1,4 +1,3 @@
-﻿record_id,source_csv_row,recall_number,event_id,event_internal_id
 record_000001,2,H-1393-2026,99859,event_99859
 record_000002,3,H-1396-2026,99853,event_99853
 record_000003,4,H-1395-2026,99874,event_99874

@@ -1,6 +1,0 @@
-belongs_to_event(recall_record, event)
-recalled_by(recall_record, firm)
-has_reason_category(recall_record, reason_category)
-has_classification(recall_record, classification)
-reason_predicts_class(reason_category, classification)
-reason_forbids_class(reason_category, classification)

@@ -1,2 +1,0 @@
-1.5 !has_reason_category(x, r) v !reason_predicts_class(r, c) v has_classification(x, c)
-2.0 !has_reason_category(x, r) v !reason_forbids_class(r, c) v !has_classification(x, c)
